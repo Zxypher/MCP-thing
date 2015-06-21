@@ -1,0 +1,9 @@
+c:\users\zxypher\documents\visual studio 2013\Projects\MCPthing\MCPthing\bin\Debug\MCPthing.exe.config
+c:\users\zxypher\documents\visual studio 2013\Projects\MCPthing\MCPthing\bin\Debug\MCPthing.exe
+c:\users\zxypher\documents\visual studio 2013\Projects\MCPthing\MCPthing\bin\Debug\MCPthing.pdb
+c:\users\zxypher\documents\visual studio 2013\Projects\MCPthing\MCPthing\obj\Debug\MCPthing.csprojResolveAssemblyReference.cache
+c:\users\zxypher\documents\visual studio 2013\Projects\MCPthing\MCPthing\obj\Debug\MCPthing.Form1.resources
+c:\users\zxypher\documents\visual studio 2013\Projects\MCPthing\MCPthing\obj\Debug\MCPthing.Properties.Resources.resources
+c:\users\zxypher\documents\visual studio 2013\Projects\MCPthing\MCPthing\obj\Debug\MCPthing.csproj.GenerateResource.Cache
+c:\users\zxypher\documents\visual studio 2013\Projects\MCPthing\MCPthing\obj\Debug\MCPthing.exe
+c:\users\zxypher\documents\visual studio 2013\Projects\MCPthing\MCPthing\obj\Debug\MCPthing.pdb
